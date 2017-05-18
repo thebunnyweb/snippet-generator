@@ -1,0 +1,10 @@
+[{
+  "caption": "SR_ Snippet Generator",
+  "children": [{
+    "caption": "Fetch Snippet Code",
+    "command": "awesomifycommand"
+  }, {
+    "caption": "Get Snippets",
+    "command": "awesomifyhelper"
+  }]
+}]

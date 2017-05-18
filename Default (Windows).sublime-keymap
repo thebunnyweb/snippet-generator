@@ -1,0 +1,7 @@
+[{
+  "keys": ["ctrl+shift+alt+q"],
+  "command": "awesomifycommand"
+}, {
+  "keys": ["ctrl+shift+alt+h"],
+  "command": "awesomifyhelper"
+}]
