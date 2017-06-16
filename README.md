@@ -12,19 +12,19 @@ Generator allows you to create snippet for reusable contents.
 ```sh
 	For sublime version 2 use Sublime Text 2
 	cd %APPDATA%\Sublime Text 3\Packages
-	git clone https://git.cloud.flip.me/f000/front-end-snippet-sublime
+	git clone https://github.com/thebunnyweb/snippet-generator
 ```
 
 ## OSX
 ```sh
 	cd /Users/{user}/Library/Application Support/Sublime Text 3/Packages
-	git clone https://git.cloud.flip.me/f000/front-end-snippet-sublime
+	git clone https://github.com/thebunnyweb/snippet-generator
 ```
 
 ## Linux
 ```sh
 	cd ~/.config/sublime-text-2/Packages/
-	git clone https://git.cloud.flip.me/f000/front-end-snippet-sublime
+	git clone https://github.com/thebunnyweb/snippet-generator
 ```
 
 
